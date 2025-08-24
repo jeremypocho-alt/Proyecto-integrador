@@ -7,10 +7,10 @@ El objetivo académico es afianzar competencias de Lógica de Programación medi
 
 ## Funcionalidades Principales
 
-* [cite_start]**Selección de palabra aleatoria:** El juego elige una palabra secreta de una lista predefinida[cite: 46].
-* [cite_start]**Manejo de intentos:** El jugador tiene un número limitado de intentos (6) para adivinar la palabra[cite: 33, 77].
-* [cite_start]**Interfaz interactiva:** Se construyó una interfaz con HTML y CSS que muestra el progreso de la palabra, los intentos restantes y el resultado final[cite: 29, 33, 46].
-* [cite_start]**Validación y retroalimentación:** El sistema valida si una letra es correcta o incorrecta, actualiza la palabra mostrada y el dibujo del ahorcado en un `canvas`[cite: 46, 50, 77].
+**Selección de palabra aleatoria:** El juego elige una palabra secreta de una lista predefinida[cite: 46].
+**Manejo de intentos:** El jugador tiene un número limitado de intentos (6) para adivinar la palabra[cite: 33, 77].
+**Interfaz interactiva:** Se construyó una interfaz con HTML y CSS que muestra el progreso de la palabra, los intentos restantes y el resultado final[cite: 29, 33, 46].
+**Validación y retroalimentación:** El sistema valida si una letra es correcta o incorrecta, actualiza la palabra mostrada y el dibujo del ahorcado en un `canvas`[cite: 46, 50, 77].
 
 Cómo Jugar
 
@@ -21,14 +21,14 @@ Cómo Jugar
 
 ## Datos del Grupo
 
-**Alumno:** Diego 
+**Alumno:** Diego Joel Revelo Cabrera
 **Carrera:** Ingeniería en Software 
 **Asignatura:** Lógica de Programación 
-**Docente:** Lolito 
+**Docente:** ESTEFANIA VANESSA HEREDIA JIMENEZ
 
 ## Fecha
 
-**Fecha de Creación del Proyecto:** Agosto 2025
+**Fecha de Creación del Proyecto:** 23 de Agosto del 2025
 
 ---
 
